@@ -1,0 +1,39 @@
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\AdaptiveMedianFilter.exe
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\AdaptiveMedianFilter.pdb
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\AdaptiveMedianFilter.exe
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\AdaptiveMedianFilter.pdb
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csprojResolveAssemblyReference.cache
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\AdaptiveMedianFilter.Form1.resources
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\AdaptiveMedianFilter.Properties.Resources.resources
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\AdaptiveMedianFilter.ZGraphForm.resources
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.GenerateResource.Cache
+I:\Template\ImageFilters\bin\Debug\ImageFilters.exe.config
+I:\Template\ImageFilters\bin\Debug\ImageFilters.exe
+I:\Template\ImageFilters\bin\Debug\ImageFilters.pdb
+I:\Template\ImageFilters\bin\Debug\ZedGraph.dll
+I:\Template\ImageFilters\bin\Debug\ZGraphTools.dll
+I:\Template\ImageFilters\bin\Debug\ZGraphTools.pdb
+I:\Template\ImageFilters\obj\Debug\ImageFilters.csproj.AssemblyReference.cache
+I:\Template\ImageFilters\obj\Debug\ImageFilters.csproj.SuggestedBindingRedirects.cache
+I:\Template\ImageFilters\obj\Debug\ImageFilters.Form1.resources
+I:\Template\ImageFilters\obj\Debug\ImageFilters.Properties.Resources.resources
+I:\Template\ImageFilters\obj\Debug\ImageFilters.csproj.GenerateResource.cache
+I:\Template\ImageFilters\obj\Debug\ImageFilters.csproj.CoreCompileInputs.cache
+I:\Template\ImageFilters\obj\Debug\ImageFilters.csproj.CopyComplete
+I:\Template\ImageFilters\obj\Debug\ImageFilters.exe
+I:\Template\ImageFilters\obj\Debug\ImageFilters.pdb
+I:\Algo project\ImageFilters\bin\Debug\ImageFilters.exe.config
+I:\Algo project\ImageFilters\bin\Debug\ImageFilters.exe
+I:\Algo project\ImageFilters\bin\Debug\ImageFilters.pdb
+I:\Algo project\ImageFilters\bin\Debug\ZedGraph.dll
+I:\Algo project\ImageFilters\bin\Debug\ZGraphTools.dll
+I:\Algo project\ImageFilters\bin\Debug\ZGraphTools.pdb
+I:\Algo project\ImageFilters\obj\Debug\ImageFilters.csproj.AssemblyReference.cache
+I:\Algo project\ImageFilters\obj\Debug\ImageFilters.csproj.SuggestedBindingRedirects.cache
+I:\Algo project\ImageFilters\obj\Debug\ImageFilters.Form1.resources
+I:\Algo project\ImageFilters\obj\Debug\ImageFilters.Properties.Resources.resources
+I:\Algo project\ImageFilters\obj\Debug\ImageFilters.csproj.GenerateResource.cache
+I:\Algo project\ImageFilters\obj\Debug\ImageFilters.csproj.CoreCompileInputs.cache
+I:\Algo project\ImageFilters\obj\Debug\ImageFilters.csproj.CopyComplete
+I:\Algo project\ImageFilters\obj\Debug\ImageFilters.exe
+I:\Algo project\ImageFilters\obj\Debug\ImageFilters.pdb
