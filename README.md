@@ -1,27 +1,4 @@
 # ImageFilters
-Image Filters
-Image Filters 
-(Noise removal in Image processing)
-Contents
-Order Statistics Filters	2
-FIRST: Alpha-trim filter	2
-SECOND: Adaptive Median Filter	4
-Implementation steps of Adaptive Median filter on Image	6
-Project Requirements	8
-FIRST: alpha-trim filter with TWO different algorithms:	8
-SECOND: adaptive median filter with TWO different algorithms:	8
-THIRD: timing graphs	8
-How to calculate execution time?	8
-How to draw the graph?	8
-Given	9
-Input	9
-Deliverables	9
-Implementation	9
-Documentation	10
-Grades	10
-BONUS TASK	10
-
-
  
 Order Statistics Filters
 In image processing, filter is usually necessary to perform a high degree of noise reduction in an image before performing higher-level processing steps. The order statistics filter is a non-linear digital filter technique, often used to remove speckle  (salt and pepper) noise from images. We target two common filters in this project:
@@ -169,7 +146,7 @@ Alpha-Trim Filter
 Adaptive Med Filter
 1.	Max window size for the filter (Ws)
 2.	Max window size for the graph (Wmax)
-Deliverables
+
 Implementation
 1.	Alpha-trim filter using two methods:
 a.	Counting sort
@@ -179,5 +156,6 @@ a.	Counting sort
 b.	Quick sort
 
 3.	Display two graphs (one for the alpha-trim and other for adaptive median) to show the execution time against different window sizes (3, 5, 7,…) of different methods.
+
 Documentation
 1.	Determine which method is better in each filter based on your results? Explain why?
