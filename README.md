@@ -156,6 +156,3 @@ a.	Counting sort
 b.	Quick sort
 
 3.	Display two graphs (one for the alpha-trim and other for adaptive median) to show the execution time against different window sizes (3, 5, 7,…) of different methods.
-
-Documentation
-1.	Determine which method is better in each filter based on your results? Explain why?
